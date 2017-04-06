@@ -25,6 +25,10 @@ shinyServer(
                 group_by( Year , Month , AccountName , numMonth ) %>%
                 summarise( Expenses = round( sum( In ) , 0 ) ) %>%
                 spread( AccountName , Expenses ) %>%
+                ## CHANGEME:  Consumables consist of the three categories 'booze',
+                ##            'groceries', and 'restaurants'.  If you have different
+                ##            category names for your consumables, add/replace as
+                ##            required here and below.
                 select( Month , Year , Booze , Groceries , Restaurants , numMonth ) %>%
                 mutate( Total = sum( Booze , Groceries , Restaurants , na.rm = TRUE ) ) %>%
                 arrange( Year , numMonth ) %>%
@@ -34,6 +38,10 @@ shinyServer(
         plottable_consumables <- reactive({
             per_month_consumables() %>%
                 select( -Total ) %>%
+                ## CHANGEME:  Consumables consist of the three categories 'booze',
+                ##            'groceries', and 'restaurants'.  If you have different
+                ##            category names for your consumables, add/replace as
+                ##            required here, above, and below.
                 gather( Type , Amount , Booze:Restaurants )
         })
         
@@ -53,6 +61,10 @@ shinyServer(
         output$monthlyConsumablesTable <- renderDataTable(
             per_month_consumables() %>%
             select( -numMonth ) %>%
+            ## CHANGEME:  Consumables consist of the three categories 'booze',
+            ##            'groceries', and 'restaurants'.  If you have different
+            ##            category names for your consumables, add/replace as
+            ##            required here and above.
             rbind( c( "" , "" , sum( .$Booze ) , sum( .$Groceries ) , sum( .$Restaurants ) , sum( .$Total ) ) )
         )
         
