@@ -16,13 +16,13 @@ shinyUI(
                                ##            exports for?
                                label = "Fiscal Year",
                                ## TODO: autofill these years
-                               choices = c( "2015" ,
-                                           "2016" ,
-                                           "2017" ),
+                               choices = c( "1995" ,
+                                           "1996" ,
+                                           "1997" ),
                                ## TODO:  auto select most recent data
                                ## CHANGEME:  what do you want the default year
                                ##            to be?
-                               selected = "2017" )
+                               selected = "1997" )
                    ),
             column(4,
                    "" )

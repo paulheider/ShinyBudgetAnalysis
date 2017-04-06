@@ -1,0 +1,94 @@
+Date,Account Name,Number,Description,Notes,Memo,Category,Type,Action,Reconcile,To With Sym,From With Sym,To Num.,From Num.,To Rate/Price,From Rate/Price
+07/08/1996,Electricity,,Power Co.,,,New Bank,T,,N,$12.22,,12.22,,,
+,,,,,,Electricity,S,,N,$12.22,,12.22,,1.00,
+,,,,,,New Bank,S,,N,,-$12.22,,-12.22,,1.00
+08/06/1996,Electricity,,Power Co.,,,New Bank,T,,N,$20.40,,20.40,,,
+,,,,,,Electricity,S,,N,$20.40,,20.40,,1.00,
+,,,,,,New Bank,S,,N,,-$20.40,,-20.40,,1.00
+09/04/1996,Electricity,,Power Co.,,,New Bank,T,,N,$25.27,,25.27,,,
+,,,,,,Electricity,S,,N,$25.27,,25.27,,1.00,
+,,,,,,New Bank,S,,N,,-$25.27,,-25.27,,1.00
+10/04/1996,Electricity,,Power Co.,,,New Bank,T,,N,$16.69,,16.69,,,
+,,,,,,Electricity,S,,N,$16.69,,16.69,,1.00,
+,,,,,,New Bank,S,,N,,-$16.69,,-16.69,,1.00
+07/01/1996,Rent,167,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+08/01/1996,Rent,176,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+09/01/1996,Rent,181,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+10/01/1996,Rent,194,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+11/01/1996,Rent,202,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+12/03/1996,Rent,213,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+12/31/1996,Rent,223,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+07/16/1996,Telephone,170,Pacific Bell,,,New Bank,T,,N,$45.77,,45.77,,,
+,,,,,,Telephone,S,,N,$45.77,,45.77,,1.00,
+,,,,,,New Bank,S,,N,,-$45.77,,-45.77,,1.00
+08/08/1996,Telephone,177,Pacific Bell,,,New Bank,T,,N,$42.73,,42.73,,,
+,,,,,,Telephone,S,,N,$42.73,,42.73,,1.00,
+,,,,,,New Bank,S,,N,,-$42.73,,-42.73,,1.00
+09/01/1996,Telephone,184,LDPC Co.,,,New Bank,T,,N,$24.66,,24.66,,,
+,,,,,,Telephone,S,,N,$24.66,,24.66,,1.00,
+,,,,,,New Bank,S,,N,,-$24.66,,-24.66,,1.00
+09/16/1996,Telephone,190,Pacific Bell,,,New Bank,T,,N,$45.01,,45.01,,,
+,,,,,,Telephone,S,,N,$45.01,,45.01,,1.00,
+,,,,,,New Bank,S,,N,,-$45.01,,-45.01,,1.00
+10/07/1996,Telephone,195,Pacific Bell,,,New Bank,T,,N,$16.95,,16.95,,,
+,,,,,,Telephone,S,,N,$16.95,,16.95,,1.00,
+,,,,,,New Bank,S,,N,,-$16.95,,-16.95,,1.00
+10/07/1996,Telephone,196,Pacific Bell,,,New Bank,T,,N,$47.67,,47.67,,,
+,,,,,,Telephone,S,,N,$47.67,,47.67,,1.00,
+,,,,,,New Bank,S,,N,,-$47.67,,-47.67,,1.00
+10/07/1996,Telephone,197,LDPC,,,New Bank,T,,N,$65.39,,65.39,,,
+,,,,,,Telephone,S,,N,$65.39,,65.39,,1.00,
+,,,,,,New Bank,S,,N,,-$65.39,,-65.39,,1.00
+11/06/1996,Telephone,203,LDPC,,,New Bank,T,,N,$36.94,,36.94,,,
+,,,,,,Telephone,S,,N,$36.94,,36.94,,1.00,
+,,,,,,New Bank,S,,N,,-$36.94,,-36.94,,1.00
+11/06/1996,Telephone,204,Pacific Bell,,,New Bank,T,,N,$22.40,,22.40,,,
+,,,,,,Telephone,S,,N,$22.40,,22.40,,1.00,
+,,,,,,New Bank,S,,N,,-$22.40,,-22.40,,1.00
+11/12/1996,Telephone,205,Pacific Bell,,,New Bank,T,,N,$24.58,,24.58,,,
+,,,,,,Telephone,S,,N,$24.58,,24.58,,1.00,
+,,,,,,New Bank,S,,N,,-$24.58,,-24.58,,1.00
+12/07/1996,Telephone,216,Pacific Bell,,,New Bank,T,,N,$57.94,,57.94,,,
+,,,,,,Telephone,S,,N,$57.94,,57.94,,1.00,
+,,,,,,New Bank,S,,N,,-$57.94,,-57.94,,1.00
+12/10/1996,Telephone,219,Pacific Bell,,,New Bank,T,,N,$25.43,,25.43,,,
+,,,,,,Telephone,S,,N,$25.43,,25.43,,1.00,
+,,,,,,New Bank,S,,N,,-$25.43,,-25.43,,1.00
+07/16/1996,Education,171,Time,,,New Bank,T,,N,$29.97,,29.97,,,
+,,,,,,Education,S,,N,$29.97,,29.97,,1.00,
+,,,,,,New Bank,S,,N,,-$29.97,,-29.97,,1.00
+12/05/1996,Auto Insurance,214,Insurance,,,New Bank,T,,N,$424.00,,424.00,,,
+,,,,,,Auto Insurance,S,,N,$424.00,,424.00,,1.00,
+,,,,,,New Bank,S,,N,,-$424.00,,-424.00,,1.00
+11/18/1996,Leisure,209,LJ,,,New Bank,T,,N,$380.18,,380.18,,,
+,,,,,,Leisure,S,,N,$380.18,,380.18,,1.00,
+,,,,,,New Bank,S,,N,,-$380.18,,-380.18,,1.00
+11/25/1996,Booze,211,LJ,,,New Bank,T,,N,$51.00,,51.00,,,
+,,,,,,Booze,S,,N,$51.00,,51.00,,1.00,
+,,,,,,New Bank,S,,N,,-$51.00,,-51.00,,1.00
+09/23/1996,Student account,191,School,,,New Bank,T,,N,$127.52,,127.52,,,
+,,,,,,Student account,S,,N,$127.52,,127.52,,1.00,
+,,,,,,New Bank,S,,N,,-$127.52,,-127.52,,1.00
+07/16/1996,Water,174,City,,,New Bank,T,,N,$44.00,,44.00,,,
+,,,,,,Water,S,,N,$44.00,,44.00,,1.00,
+,,,,,,New Bank,S,,N,,-$44.00,,-44.00,,1.00
+07/16/1996,Water,175,City,,,New Bank,T,,N,$28.00,,28.00,,,
+,,,,,,Water,S,,N,$28.00,,28.00,,1.00,
+,,,,,,New Bank,S,,N,,-$28.00,,-28.00,,1.00
+09/01/1996,Water,183,City,,,New Bank,T,,N,$22.00,,22.00,,,
+,,,,,,Water,S,,N,$22.00,,22.00,,1.00,
+,,,,,,New Bank,S,,N,,-$22.00,,-22.00,,1.00

@@ -1,0 +1,22 @@
+Date,Account Name,Number,Description,Notes,Memo,Category,Type,Action,Reconcile,To With Sym,From With Sym,To Num.,From Num.,To Rate/Price,From Rate/Price
+12/27/1995,M,113,AAA,,,New Bank,T,,N,$39.00,,39.00,,,
+,,,,,,M,S,,N,$39.00,,39.00,,1.00,
+,,,,,,New Bank,S,,N,,-$39.00,,-39.00,,1.00
+12/31/1995,Natural Gas,115,Gas Co.,,,New Bank,T,,N,$78.04,,78.04,,,
+,,,,,,Natural Gas,S,,N,$78.04,,78.04,,1.00,
+,,,,,,New Bank,S,,N,,-$78.04,,-78.04,,1.00
+12/03/1995,Rent,106,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+12/08/1995,Telephone,108,Pacific Bell,,,New Bank,T,,N,$56.83,,56.83,,,
+,,,,,,Telephone,S,,N,$56.83,,56.83,,1.00,
+,,,,,,New Bank,S,,N,,-$56.83,,-56.83,,1.00
+12/27/1995,Groceries,111,B's Supermarket,,,New Bank,T,,N,$9.89,,9.89,,,
+,,,,,,Groceries,S,,N,$9.89,,9.89,,1.00,
+,,,,,,New Bank,S,,N,,-$9.89,,-9.89,,1.00
+12/05/1995,Auto Insurance,107,Insurance,,,New Bank,T,,N,$539.60,,539.60,,,
+,,,,,,Auto Insurance,S,,N,$539.60,,539.60,,1.00,
+,,,,,,New Bank,S,,N,,-$539.60,,-539.60,,1.00
+12/27/1995,Clothing,112,Court,,,New Bank,T,,N,$86.00,,86.00,,,
+,,,,,,Clothing,S,,N,$86.00,,86.00,,1.00,
+,,,,,,New Bank,S,,N,,-$86.00,,-86.00,,1.00

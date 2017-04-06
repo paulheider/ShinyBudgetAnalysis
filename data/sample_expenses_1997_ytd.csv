@@ -1,0 +1,76 @@
+Date,Account Name,Number,Description,Notes,Memo,Category,Type,Action,Reconcile,To With Sym,From With Sym,To Num.,From Num.,To Rate/Price,From Rate/Price
+03/14/1997,Groceries,260,FTB,,,New Bank,T,,N,$89.87,,89.87,,,
+,,,,,,Groceries,S,,N,$89.87,,89.87,,1.00,
+,,,,,,New Bank,S,,N,,-$89.87,,-89.87,,1.00
+01/04/1997,Booze,224,Mellon Bank,,,New Bank,T,,N,$40.00,,40.00,,,
+,,,,,,Booze,S,,N,$40.00,,40.00,,1.00,
+,,,,,,New Bank,S,,N,,-$40.00,,-40.00,,1.00
+02/11/1997,Restaurants,239,CAF,,,New Bank,T,,N,$300.00,,300.00,,,
+,,,,,,Restaurants,S,,N,$300.00,,300.00,,1.00,
+,,,,,,New Bank,S,,N,,-$300.00,,-300.00,,1.00
+02/12/1997,Bank Charges,,Cash,,,New Bank,T,,N,$1.50,,1.50,,,
+,,,,,,Bank Charges,S,,N,$1.50,,1.50,,1.00,
+,,,,,,New Bank,S,,N,,-$1.50,,-1.50,,1.00
+03/04/1997,Bank Charges,,Coast Federal Bank,,,New Bank,T,,N,$2.00,,2.00,,,
+,,,,,,Bank Charges,S,,N,$2.00,,2.00,,1.00,
+,,,,,,New Bank,S,,N,,-$2.00,,-2.00,,1.00
+01/07/1997,Electricity,,Power Co.,,,New Bank,T,,N,$11.58,,11.58,,,
+,,,,,,Electricity,S,,N,$11.58,,11.58,,1.00,
+,,,,,,New Bank,S,,N,,-$11.58,,-11.58,,1.00
+02/07/1997,Electricity,,Power Co.,,,New Bank,T,,N,$21.43,,21.43,,,
+,,,,,,Electricity,S,,N,$21.43,,21.43,,1.00,
+,,,,,,New Bank,S,,N,,-$21.43,,-21.43,,1.00
+03/14/1997,Electricity,,Power Co.,,,New Bank,T,,N,$20.62,,20.62,,,
+,,,,,,Electricity,S,,N,$20.62,,20.62,,1.00,
+,,,,,,New Bank,S,,N,,-$20.62,,-20.62,,1.00
+01/31/1997,Rent,234,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+03/02/1997,Rent,250,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+03/31/1997,Rent,264,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+01/04/1997,Telephone,225,LDPC,,,New Bank,T,,N,$112.24,,112.24,,,
+,,,,,,Telephone,S,,N,$112.24,,112.24,,1.00,
+,,,,,,New Bank,S,,N,,-$112.24,,-112.24,,1.00
+01/10/1997,Telephone,227,Pacific Bell,,,New Bank,T,,N,$17.07,,17.07,,,
+,,,,,,Telephone,S,,N,$17.07,,17.07,,1.00,
+,,,,,,New Bank,S,,N,,-$17.07,,-17.07,,1.00
+01/10/1997,Telephone,228,Pacific Bell,,,New Bank,T,,N,$16.26,,16.26,,,
+,,,,,,Telephone,S,,N,$16.26,,16.26,,1.00,
+,,,,,,New Bank,S,,N,,-$16.26,,-16.26,,1.00
+02/06/1997,Telephone,235,LDPC,,,New Bank,T,,N,$3.35,,3.35,,,
+,,,,,,Telephone,S,,N,$3.35,,3.35,,1.00,
+,,,,,,New Bank,S,,N,,-$3.35,,-3.35,,1.00
+02/19/1997,Telephone,241,Pacific Bell,,,New Bank,T,,N,$16.10,,16.10,,,
+,,,,,,Telephone,S,,N,$16.10,,16.10,,1.00,
+,,,,,,New Bank,S,,N,,-$16.10,,-16.10,,1.00
+03/14/1997,Telephone,255,LDPC,,,New Bank,T,,N,$13.87,,13.87,,,
+,,,,,,Telephone,S,,N,$13.87,,13.87,,1.00,
+,,,,,,New Bank,S,,N,,-$13.87,,-13.87,,1.00
+03/14/1997,Telephone,256,Pacific Bell,,,New Bank,T,,N,$16.45,,16.45,,,
+,,,,,,Telephone,S,,N,$16.45,,16.45,,1.00,
+,,,,,,New Bank,S,,N,,-$16.45,,-16.45,,1.00
+03/14/1997,Telephone,259,Pacific Bell,,,New Bank,T,,N,$108.56,,108.56,,,
+,,,,,,Telephone,S,,N,$108.56,,108.56,,1.00,
+,,,,,,New Bank,S,,N,,-$108.56,,-108.56,,1.00
+03/31/1997,Telephone,263,LDPC,,,New Bank,T,,N,$4.80,,4.80,,,
+,,,,,,Telephone,S,,N,$4.80,,4.80,,1.00,
+,,,,,,New Bank,S,,N,,-$4.80,,-4.80,,1.00
+02/19/1997,Clothing,246,HCA,,,New Bank,T,,N,$4.48,,4.48,,,
+,,,,,,Clothing,S,,N,$4.48,,4.48,,1.00,
+,,,,,,New Bank,S,,N,,-$4.48,,-4.48,,1.00
+03/14/1997,Clothing,253,HCA,,,New Bank,T,,N,$12.27,,12.27,,,
+,,,,,,Clothing,S,,N,$12.27,,12.27,,1.00,
+,,,,,,New Bank,S,,N,,-$12.27,,-12.27,,1.00
+03/18/1997,Healthcare,261,Dr,,,New Bank,T,,N,$40.00,,40.00,,,
+,,,,,,Healthcare,S,,N,$40.00,,40.00,,1.00,
+,,,,,,New Bank,S,,N,,-$40.00,,-40.00,,1.00
+01/13/1997,Water,231,DWV,,,New Bank,T,,N,$12.00,,12.00,,,
+,,,,,,Water,S,,N,$12.00,,12.00,,1.00,
+,,,,,,New Bank,S,,N,,-$12.00,,-12.00,,1.00
+02/11/1997,Water,240,City,,,New Bank,T,,N,$50.00,,50.00,,,
+,,,,,,Water,S,,N,$50.00,,50.00,,1.00,
+,,,,,,New Bank,S,,N,,-$50.00,,-50.00,,1.00
