@@ -1,0 +1,97 @@
+Date,Account Name,Number,Description,Notes,Memo,Category,Type,Action,Reconcile,To With Sym,From With Sym,To Num.,From Num.,To Rate/Price,From Rate/Price
+02/03/1996,Bills,124,DBC,,,New Bank,T,,N,$24.89,,24.89,,,
+,,,,,,Bills,S,,N,$24.89,,24.89,,1.00,
+,,,,,,New Bank,S,,N,,-$24.89,,-24.89,,1.00
+02/07/1996,Electricity,,Power Co.,,,New Bank,T,,N,$46.53,,46.53,,,
+,,,,,,Electricity,S,,N,$46.53,,46.53,,1.00,
+,,,,,,New Bank,S,,N,,-$46.53,,-46.53,,1.00
+02/27/1996,Electricity,,Power Co.,,,New Bank,T,,N,$23.14,,23.14,,,
+,,,,,,Electricity,S,,N,$23.14,,23.14,,1.00,
+,,,,,,New Bank,S,,N,,-$23.14,,-23.14,,1.00
+04/08/1996,Electricity,,Power Co.,,,New Bank,T,,N,$19.28,,19.28,,,
+,,,,,,Electricity,S,,N,$19.28,,19.28,,1.00,
+,,,,,,New Bank,S,,N,,-$19.28,,-19.28,,1.00
+05/01/1996,Electricity,,Power Co.,,,New Bank,T,,N,$19.78,,19.78,,,
+,,,,,,Electricity,S,,N,$19.78,,19.78,,1.00,
+,,,,,,New Bank,S,,N,,-$19.78,,-19.78,,1.00
+06/10/1996,Electricity,,Power Co.,,,New Bank,T,,N,$25.36,,25.36,,,
+,,,,,,Electricity,S,,N,$25.36,,25.36,,1.00,
+,,,,,,New Bank,S,,N,,-$25.36,,-25.36,,1.00
+01/28/1996,Natural Gas,123,Gas Co.,,,New Bank,T,,N,$55.95,,55.95,,,
+,,,,,,Natural Gas,S,,N,$55.95,,55.95,,1.00,
+,,,,,,New Bank,S,,N,,-$55.95,,-55.95,,1.00
+03/09/1996,Natural Gas,137,Gas Co.,,,New Bank,T,,N,$18.75,,18.75,,,
+,,,,,,Natural Gas,S,,N,$18.75,,18.75,,1.00,
+,,,,,,New Bank,S,,N,,-$18.75,,-18.75,,1.00
+04/10/1996,Natural Gas,145,Gas Co.,,,New Bank,T,,N,$23.09,,23.09,,,
+,,,,,,Natural Gas,S,,N,$23.09,,23.09,,1.00,
+,,,,,,New Bank,S,,N,,-$23.09,,-23.09,,1.00
+01/01/1996,Rent,116,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+02/01/1996,Rent,126,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+03/02/1996,Rent,135,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+04/01/1996,Rent,144,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+05/01/1996,Rent,149,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+06/02/1996,Rent,158,Landlord,,,New Bank,T,,N,$525.00,,525.00,,,
+,,,,,,Rent,S,,N,$525.00,,525.00,,1.00,
+,,,,,,New Bank,S,,N,,-$525.00,,-525.00,,1.00
+01/23/1996,Telephone,120,Pacific Bell,,,New Bank,T,,N,$95.31,,95.31,,,
+,,,,,,Telephone,S,,N,$95.31,,95.31,,1.00,
+,,,,,,New Bank,S,,N,,-$95.31,,-95.31,,1.00
+02/07/1996,Telephone,128,Pacific Bell,,,New Bank,T,,N,$50.61,,50.61,,,
+,,,,,,Telephone,S,,N,$50.61,,50.61,,1.00,
+,,,,,,New Bank,S,,N,,-$50.61,,-50.61,,1.00
+03/09/1996,Telephone,139,Pacific Bell,,,New Bank,T,,N,$49.51,,49.51,,,
+,,,,,,Telephone,S,,N,$49.51,,49.51,,1.00,
+,,,,,,New Bank,S,,N,,-$49.51,,-49.51,,1.00
+04/10/1996,Telephone,146,Pacific Bell,,,New Bank,T,,N,$22.74,,22.74,,,
+,,,,,,Telephone,S,,N,$22.74,,22.74,,1.00,
+,,,,,,New Bank,S,,N,,-$22.74,,-22.74,,1.00
+05/02/1996,Telephone,151,LDPC Co.,,,New Bank,T,,N,$41.70,,41.70,,,
+,,,,,,Telephone,S,,N,$41.70,,41.70,,1.00,
+,,,,,,New Bank,S,,N,,-$41.70,,-41.70,,1.00
+05/19/1996,Telephone,154,Pacific Bell,,,New Bank,T,,N,$56.07,,56.07,,,
+,,,,,,Telephone,S,,N,$56.07,,56.07,,1.00,
+,,,,,,New Bank,S,,N,,-$56.07,,-56.07,,1.00
+06/06/1996,Telephone,160,LDPC Co.,,,New Bank,T,,N,$42.72,,42.72,,,
+,,,,,,Telephone,S,,N,$42.72,,42.72,,1.00,
+,,,,,,New Bank,S,,N,,-$42.72,,-42.72,,1.00
+06/06/1996,Telephone,161,Pacific Bell,,,New Bank,T,,N,$48.25,,48.25,,,
+,,,,,,Telephone,S,,N,$48.25,,48.25,,1.00,
+,,,,,,New Bank,S,,N,,-$48.25,,-48.25,,1.00
+02/21/1996,Clothing,134,HCA,,,New Bank,T,,N,$3.98,,3.98,,,
+,,,,,,Clothing,S,,N,$3.98,,3.98,,1.00,
+,,,,,,New Bank,S,,N,,-$3.98,,-3.98,,1.00
+02/10/1996,Food,130,B's Supermarket,,,New Bank,T,,N,$2.40,,2.40,,,
+,,,,,,Food,S,,N,$2.40,,2.40,,1.00,
+,,,,,,New Bank,S,,N,,-$2.40,,-2.40,,1.00
+03/24/1996,Groceries,142,B's Supermarket,,,New Bank,T,,N,$10.10,,10.10,,,
+,,,,,,Groceries,S,,N,$10.10,,10.10,,1.00,
+,,,,,,New Bank,S,,N,,-$10.10,,-10.10,,1.00
+05/31/1996,Healthcare,157,Dr. Lin,,,New Bank,T,,N,$10.00,,10.00,,,
+,,,,,,Healthcare,S,,N,$10.00,,10.00,,1.00,
+,,,,,,New Bank,S,,N,,-$10.00,,-10.00,,1.00
+06/07/1996,Auto Insurance,162,Insurance Co.,,,New Bank,T,,N,$537.00,,537.00,,,
+,,,,,,Auto Insurance,S,,N,$537.00,,537.00,,1.00,
+,,,,,,New Bank,S,,N,,-$537.00,,-537.00,,1.00
+01/13/1996,Photo,117,MCL,,,New Bank,T,,N,$8.20,,8.20,,,
+,,,,,,Photo,S,,N,$8.20,,8.20,,1.00,
+,,,,,,New Bank,S,,N,,-$8.20,,-8.20,,1.00
+03/27/1996,Miscellaneous,,BB,,,New Bank,T,,N,-$154.31,,-154.31,,,
+,,,,,,New Bank,S,,N,,$154.31,,154.31,,1.00
+,,,,,,Miscellaneous,S,,N,-$154.31,,-154.31,,1.00,
+04/10/1996,Restaurants,,BB,,,New Bank,T,,N,$577.87,,577.87,,,
+,,,,,,Restaurants,S,,N,-$577.87,,577.87,,1.00,
+,,,,,,New Bank,S,,N,,$577.87,,-577.87,,1.00
+05/19/1996,Water,153,DW,,,New Bank,T,,N,$265.00,,265.00,,,
+,,,,,,Water,S,,N,$265.00,,265.00,,1.00,
+,,,,,,New Bank,S,,N,,-$265.00,,-265.00,,1.00

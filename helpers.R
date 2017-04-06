@@ -45,7 +45,8 @@ loadAccount <- function( filename = '' ,
                                     AccountName == 'Phone' |
                                     AccountName == 'Gas' |
                                     AccountName == 'Internet' |
-                                    AccountName == 'Insurance' ,
+                                    AccountName == 'Insurance' |
+                                    AccountName == 'Rent' ,
                                    yes = 'Nut' ,
                                    ## OR together the list of accounts that you
                                    ## consider to be 'One Time' expenses (things
@@ -75,15 +76,15 @@ loadAccount <- function( filename = '' ,
 loadExpenses <- function( the_year ){
     ## CHANGEME:  for every year that you added to the ui.R selectInput field,
     ##            you need to add an expenses file to load here
-    if( the_year == "2015" ){
-        expenses <- loadAccount( filename = 'data/sample_2015_expenses.csv' , type = 'expenses' )
-    } else if( the_year == "2016" ){
+    if( the_year == "1995" ){
+        expenses <- loadAccount( filename = 'data/sample_expenses_1995.csv' , type = 'expenses' )
+    } else if( the_year == "1996" ){
         ## You can combine two (or more) files into a single year like so:
-        expenses <- loadAccount( filename = 'data/sample_2016H1_expenses.csv' , type = 'expenses' ) %>%
-            bind_rows( loadAccount( filename = 'data/sample_2016H2_expenses.csv' , type = 'expenses' ) )
-    } else if( the_year == "2017" ){
+        expenses <- loadAccount( filename = 'data/sample_expenses_1996H1.csv' , type = 'expenses' ) %>%
+            bind_rows( loadAccount( filename = 'data/sample_expenses_1996H2.csv' , type = 'expenses' ) )
+    } else if( the_year == "1997" ){
         ## Keep the latest year's expenses up to date with regular exports
-        expenses <- loadAccount( filename = 'data/sample_2017_expenses_ytd.csv' , type = 'expenses' )
+        expenses <- loadAccount( filename = 'data/sample_expenses_1997_ytd.csv' , type = 'expenses' )
     }
     return( expenses )
 }
