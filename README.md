@@ -3,6 +3,8 @@ ShinyBudgetAnalysis
 
 A [https://shiny.rstudio.com](Shiny app) ([https://www.r-project.org](R)-based dashboard) that gives insight into your [https://www.gnucash.org/](GnuCash) budget habits over time.
 
+Check the [https://github.com/paulheider/ShinyBudgetAnalysis/wiki](wiki) for sample screenshots.
+
 
 Configuration
 -------------
@@ -32,6 +34,9 @@ Running this Shiny app requires a few configuration steps.
 4. Launch the Shiny server from within your favorite R shell or program
    
    ```R
+   ## Load the shiny librar
+   library( "shiny" )
+   
    ## Start the server and automatically launch my default browser to show the app
    runApp( "$SBA_DIR" )
    
@@ -41,4 +46,3 @@ Running this Shiny app requires a few configuration steps.
    ## As above but I'll open the app myself in an browser
    runApp( "$SBA_DIR" , display.mode = "showcase" , launch.browser = FALSE )
    '''
-
