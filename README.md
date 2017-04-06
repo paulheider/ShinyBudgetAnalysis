@@ -1,10 +1,9 @@
 ShinyBudgetAnalysis
 ===================
 
-A [https://shiny.rstudio.com](Shiny app) ([https://www.r-project.org](R)-based dashboard) that gives insight into your [https://www.gnucash.org/](GnuCash) budget habits over time.
+A [Shiny app](https://shiny.rstudio.com) ([R](https://www.r-project.org)-based dashboard) that gives insight into your [GnuCash](https://www.gnucash.org/) budget habits over time.
 
-Check the [https://github.com/paulheider/ShinyBudgetAnalysis/wiki](wiki) for sample screenshots.
-
+Check the [wiki](https://github.com/paulheider/ShinyBudgetAnalysis/wiki) for sample screenshots.
 
 Configuration
 -------------
